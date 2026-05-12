@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "154753212706",
+    "firebase_url": "https://helia-hotel-default-rtdb.firebaseio.com",
+    "project_id": "helia-hotel",
+    "storage_bucket": "helia-hotel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154753212706:android:2915054eaa3ea51b3f857b",
+        "android_client_info": {
+          "package_name": "com.yuriikonovalov.helia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154753212706-bcmipfatkvbg2vjbjmo3njporhn9ac43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yuriikonovalov.helia",
+            "certificate_hash": "4bfda59c8e350b7c3324951719680938de45e72b"
+          }
+        },
+        {
+          "client_id": "154753212706-ieksfmfp6che72ql316shd7hi3pos18g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yuriikonovalov.helia",
+            "certificate_hash": "a8d217fd4a5ba12ceadca19fd01e793fb0e4867a"
+          }
+        },
+        {
+          "client_id": "154753212706-dhm2kctnum6m4rcj5hj9hu32r2j7kbd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgH4Emm0u0h5DO5gOFZ6UCrtRePqVB0SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154753212706-dhm2kctnum6m4rcj5hj9hu32r2j7kbd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -76,7 +76,7 @@ GitHub: [@Krishnaumarani1066](https://github.com/Krishnaumarani1066)
 
 ## Acknowledgments
 
-- UI design inspired by the [Helia Hotel Booking App UI Kit](https://ui8.net/munirsr/products/helia-hotel-booking-app-ui-kit) by [Munir SR](https://ui8.net/munirsr).
+
 - Built for educational purposes to showcase Android UI design implementation.
 
 ---
